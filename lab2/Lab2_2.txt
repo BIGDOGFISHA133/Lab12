@@ -1,0 +1,50 @@
+﻿cd
+mkdir public
+cd public
+cp /home/frondel1/Public/RealEstate.csv RealEstate.csv
+ls
+mv RealEstate.csv myRealEstate.csv
+ls
+pwd
+wc myRealEstate.csv
+mkdir Regular
+mkdir Submission
+ls
+cd Submission
+ls
+mkdir Lab2
+mkdir Lab3
+ls
+cd Submission
+ls
+mkdir Lab2
+mkdir Lab3
+ls
+mv Regular Others
+cd public
+cd
+cd public
+ls
+mv Regular Others
+ls
+cd Submission
+cd Lab2
+cp /home/dyoo10/Lab2_P2
+cp /home/dyoo10/Lab2_P2 Lab2_P2
+ls
+cd
+ls
+cd Lab2_P2
+pwd
+cd
+cd public
+cd Submission
+cd lab 2
+cd Lab2
+cp /home/dyoo10/Lab2_P2/
+cp -r /home/dyoo10/Lab2_P2
+cp -r /home/dyoo10/Lab2_P2 Lab2_P2
+ls
+cd
+rm -rf Lab2_P2
+history

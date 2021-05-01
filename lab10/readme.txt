@@ -1,0 +1,1 @@
+splittime.c is used to take any integer in seconds (3600) then convert it into hours, minutes, and seconds
